@@ -1,0 +1,48 @@
+.navbar {
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 25px;
+    background-color: rgb(231, 231, 231);
+}
+
+.nav {
+    margin-top: 0px;
+    padding: 25px;
+    text-anchor: middle;
+    background-color: rgb(185, 198, 212);
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.drop-option {
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+    min-width: 160px;
+}
+
+p {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
